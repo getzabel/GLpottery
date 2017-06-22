@@ -71,7 +71,7 @@ background-color: transparent;;
 	padding-right: 3%;
 }
 .col-lg-10{
-	background-image: url("file:///Users/getzabelnambo/Desktop/glpottery/images/glpottery-logo.svg");
+	background-image: url("../images/glpottery-logo.svg");
 	background-repeat: no-repeat;
 	height: 150px;
 }
@@ -81,7 +81,7 @@ background-color: transparent;;
 }
 
 .visible-xs {
-	background-image: url("file:///Users/getzabelnambo/Desktop/glpottery/images/glpottery-small.svg");
+	background-image: url("../images/glpottery-small.svg");
 	background-repeat: no-repeat;
 	height: 100px;
 		margin-top: 5%;
