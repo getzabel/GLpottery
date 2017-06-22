@@ -1,0 +1,96 @@
+ /*Colors
+Dark Orange: #ff6666;
+Light Orange:#ff9966;
+Green:#86e1d5;
+Light green:c0e2d4;
+Light Brown: #d6c6b7;
+Light Gray:#cccccc;
+Medium Gray:#999999;
+Dark Gray:#666666;
+
+ */
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #999;
+}
+h1{
+	font-family: 'Shadows Into Light', cursive;
+	color:#666;
+
+}
+ .jumbotron{
+margin:0;
+padding: 0;
+background-color: transparent;;
+ }
+ .shopping-cart p{
+ 	color:#d6c6b7;
+ 	font-size: 1.2em;
+ 	font-family: 'Shadows Into Light';
+	margin-bottom: 5%;
+ }
+ .shopping-cart{
+ 	padding-bottom: 5%;
+ }
+.fa-shopping-cart{
+	color:#d6c6b7;
+	font-size: 2em
+}
+.fa-facebook, .fa-pinterest, .fa-twitter{
+	font-size: 2em;
+	color:#ff6666;
+	padding-left: 10%;
+    padding-top: 15%;
+}
+.fa:hover{
+	text-decoration:none;
+	color:#ff9966;
+}
+.navbar-nav{
+	width: 100%;
+
+}
+.navbar-nav>li {
+    float: left;
+    width: 25%;
+    font-family:'Shadows Into Light';
+    font-size: 1.6em;
+}
+.visible-xs{
+  
+    color: #ff8800;
+}
+.container-sm{
+    padding-top: 70px;
+   
+    margin-right: auto;
+    margin-left: auto;
+}
+.col-xs-5 a {
+	text-decoration: none;
+	padding-right: 3%;
+}
+.col-lg-10{
+	background-image: url("file:///Users/getzabelnambo/Desktop/glpottery/images/glpottery-logo.svg");
+	background-repeat: no-repeat;
+	height: 150px;
+}
+.visible-lg{
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+
+.visible-xs {
+	background-image: url("file:///Users/getzabelnambo/Desktop/glpottery/images/glpottery-small.svg");
+	background-repeat: no-repeat;
+	height: 100px;
+		margin-top: 5%;
+	margin-bottom: 2%;
+}
+.visible-xs a{
+	font-size: 2em;
+}
+.col-sm-12 {
+    width: 100%;
+    text-align: center;
+}
