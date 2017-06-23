@@ -52,6 +52,9 @@ background-color: transparent;;
 }
 .navbar{
 	margin-bottom: 5%;
+	background-color: #fff;
+	padding-left: 0px;
+    padding-right: 0px
 }
 .navbar-nav>li {
     float: left;
@@ -59,6 +62,19 @@ background-color: transparent;;
     font-family:'Shadows Into Light';
     font-size: 1.6em;
 }
+
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav>.active>a{
+	background-image: none;
+	box-shadow:none;
+	background-color: #fff;
+    
+}
+
 .visible-xs{
   
     color: #ff8800;
@@ -132,7 +148,14 @@ background-color: transparent;;
 	text-align: center;
 }
 .col-sm-12 h2{
-	font-size: 1.4em;
+	font-size: 1em;
+}
+.slogan{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.photos{
+	margin-bottom: 5%;
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
